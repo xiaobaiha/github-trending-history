@@ -18,6 +18,7 @@
 
 ## Trending Week
 
+- [2019-11-14](./Weekly/2019-11-14.md)  
 <!-- weekly -->
 
 ## Trending Month
