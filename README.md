@@ -23,5 +23,4 @@
 
 ## Trending Month
 
-- [2019-11-14](./Monthly/2019-11-14.md)  
 <!-- monthly -->
