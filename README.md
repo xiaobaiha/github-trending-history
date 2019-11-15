@@ -26,4 +26,5 @@
 ## Trending Month
 
 - [2019-11-14](./Monthly/2019-11-14.md)  
+- [2019-11-15](./Monthly/2019-11-15.md)  
 <!-- monthly -->
