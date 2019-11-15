@@ -14,6 +14,7 @@
 ## Trending Day
  
 - [2019-11-14](./Daily/2019-11-14.md)  
+- [2019-11-15](./Daily/2019-11-15.md)  
 <!-- daily -->
 
 ## Trending Week
